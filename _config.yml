@@ -1,20 +1,18 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Rebecca Williams
+tagline:          A website. 
+description:      A home for Rebecca Williams. 
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Rebecca Williams
+  avatar:         rebeccawilliams.png
+  bio:            Rebecca Williams
+  email:          rebecca@rebeccawilliams.us
+  twitter:        internetrebecca
+  github:         rebeccawilliams
+  instagram:      instarebeccawilliams
+  location:       "Washington, DC"
   # Plug in your disqus shortname!
 
 tools:
@@ -27,10 +25,10 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/rebeccawilliams
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Rebecca Who?
+    url: http://rebeccawilliams.us
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
