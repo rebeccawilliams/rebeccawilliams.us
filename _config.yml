@@ -3,6 +3,9 @@ tagline:          A website.
 description:      A home for Rebecca Williams. 
 canonical: http://jekyll.gtat.me
 
+baseurl: /blog
+url: /blog
+
 # Owner/author information
 owner:
   name:           Rebecca Williams
