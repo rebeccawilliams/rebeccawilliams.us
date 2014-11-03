@@ -6,7 +6,7 @@ categories: articles
 date: 2014-11-02
 ---
 <figure>
-	<img src="/images/blur.jpg" width="500">
+	<img src="/images/blur.jpg">
 	<figcaption>Laptop on a bus, 2013</figcaption>
 </figure>
 
@@ -15,9 +15,13 @@ I [tweet](https://www.twitter.com/internetrebecca), I put everything I have got 
 To date:
 
 **~2002-2004** Livejournal & Deadjournal. Diaries, stories. Retired, copies lost.  
+
 **~2008-2010** Blogspot. Things I liked. Retired, copy lost.  
+
 **2013-2014** [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/).  
+
 **2009-2014** A personal blogging hiadus with many one post tumblr attempts, see:  
+
 * [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it is good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
@@ -26,7 +30,9 @@ To date:
 * [Today Rebecca Learned:](http://todayrebeccalearned.tumblr.com/) I can't remember the password to this or my login info. Not a joke or a metaphor.  
 * [Repeat Endlessly to Yourself:](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like [Jack Cheng](http://jackcheng.com/)'s [Notes to Self](https://web.archive.org/web/20090317095650/http://jackcheng.tumblr.com/) that I loved so much back in 2009.  
 * [The Timball Challenge](http://thetimballchallenge.tumblr.com/) A cooking blog with one post to date.  
+
 **2014-?** The newest addition: **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** 
+
 I am excited to have one spot to put it all once again. 
 
 
