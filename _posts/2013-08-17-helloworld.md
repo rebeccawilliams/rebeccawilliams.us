@@ -14,7 +14,7 @@ I [tweet](https://www.twitter.com/internetrebecca), I put everything I have got 
 
 To date:
 
-*~2002-2004* Livejournal & Deadjournal. Diaries, stories. Retired, copies lost.  
+**~2002-2004** Livejournal & Deadjournal. Diaries, stories. Retired, copies lost.  
 
 *~2008-2010* Blogspot. Things I liked. Retired, copy lost.  
 
