@@ -3,7 +3,7 @@ layout: post-light-feature
 title: Hello World
 description: "I have set up a place to put my thoughts!"
 categories: articles
-date: 2013-08-17
+date: 2014-11-02
 image: 
         feature: https://raw.githubusercontent.com/rebeccawilliams/rebeccawilliams.github.io/master/images/a5503950a23611e2a45222000a9e06f4_7.jpg
 ---
