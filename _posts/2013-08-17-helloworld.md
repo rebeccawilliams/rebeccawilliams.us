@@ -5,7 +5,7 @@ description: "The blogging history of Rebecca Williams"
 categories: articles
 date: 2014-11-02
 image:  
-	feature: "https://github.com/rebeccawilliams/blog/blob/gh-pages/images/blur.jpg"
+	feature: /blur.jpg
 ---
 To date:
 
