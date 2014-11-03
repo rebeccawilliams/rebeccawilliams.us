@@ -13,8 +13,8 @@ I [tweet](www.twitter.com/internetrebecca), I put everything I've got into email
 
 To date:
 
-* ~2002-2004 Livejournal & Deadjournal. Diary, Stories. Retired, copy lost. 
-* ~2008-2010 Blogspot. Things I was reading/listening to. Retired, copy lost. 
+* ~2002-2004 Livejournal & Deadjournal. Diaries, stories. Retired, copies lost. 
+* ~2008-2010 Blogspot. Things I liked. Retired, copy lost. 
 * 2013-2014 [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/)
 * 2010-present, a personal blogging hiadus with many one post tumblr attempts, see: 
 	* [http://thesearewebcomicsiknow.tumblr.com/](These are web comics, I know.) 1st Tumblr, updated the most, I still think it is good. 
