@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Hello World
 description: "The blogging history of Rebecca Williams, 2002-2014."
 categories: articles
