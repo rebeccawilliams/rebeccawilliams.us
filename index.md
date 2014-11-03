@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Rebecca Williams"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: blur.jpg
