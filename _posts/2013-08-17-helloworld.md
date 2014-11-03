@@ -25,7 +25,7 @@ To date:
 * [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it is good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
-*  [Housing Crisis Solutions](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis) and I wanted to solve the Housing Crisis, still do.   
+*  [Housing Crisis Solutions](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis) and I wanted to solve the housing crisis, still do.   
 * [internetrebecca (tumblr addition)](http://internetrebecca.tumblr.com/) This is when I was getting antsy to post things, but I don't even like my twitter handle, so taking on the full persona felt weird.  
 * [Today Rebecca Learned:](http://todayrebeccalearned.tumblr.com/) I can't remember the password to this or my login info. Not a joke or a metaphor.  
 * [Repeat Endlessly to Yourself:](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like [Jack Cheng](http://jackcheng.com/)'s [Notes to Self](https://web.archive.org/web/20090317095650/http://jackcheng.tumblr.com/) that I loved so much back in 2009.  
