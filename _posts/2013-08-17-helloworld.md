@@ -31,6 +31,8 @@ To date:
 * [Repeat Endlessly to Yourself](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like [Jack Cheng](http://jackcheng.com/)'s [Notes to Self](https://web.archive.org/web/20090317095650/http://jackcheng.tumblr.com/) that I loved so much back in 2009.  
 * [The Timball Challenge](http://thetimballchallenge.tumblr.com/) A cooking blog with one post to date.  
 
-2014-? **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** Needless to say, I am glad to have a spot once again.
+2014-? **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** 
+
+Needless to say, I am glad to have a spot once again.
 
 
