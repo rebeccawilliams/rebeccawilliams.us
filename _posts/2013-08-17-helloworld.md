@@ -33,6 +33,6 @@ To date:
 
 2014-? **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** 
 
-Needless to say, I am glad to have a spot once again.
+I am excited to have one spot to put it all once again. 
 
 
