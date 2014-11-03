@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Hello World
-description: "The blogging history of Rebecca Williams."
+description: "The blogging history of Rebecca Williams, 2002 - 2014."
 categories: articles
 date: 2014-11-02
 ---
@@ -19,12 +19,12 @@ To date:
 * 2010-present, a personal blogging hiadus with many one post tumblr attempts, see: 
 	* [http://thesearewebcomicsiknow.tumblr.com/](These are web comics, I know.) 1st Tumblr, updated the most, I still think it is good. 
 	* [http://songstoputyouinamood.tumblr.com/](Songs to put you in a mood.) Cathartic emo music list post break-up. 
-	* [http://songstoputyouinamood.tumblr.com/](http://songstopickyouup.tumblr.com/) Same. 
-	* [http://housingcrisissolutions.tumblr.com/](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow).
-	* [http://internetrebecca.tumblr.com/](http://internetrebecca.tumblr.com/) This is when I was getting ansty to post things, but I don't even like my twitter handle, so taking on the full persona felt weird. 
-	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/) I can't remember the password to this or how to log in. 
-	* [http://repeatendlesslytoyourself.tumblr.com/](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like Jack Cheng's quotes page that I loved so much back in 2004. 
-	* [http://thetimballchallenge.tumblr.com/](http://thetimballchallenge.tumblr.com/) A cooking blog with one post to date.
+	* [http://songstopickyouup.tumblr.com/](Songs to pick you up.) Same. 
+	* [http://housingcrisissolutions.tumblr.com/](Housing Crisis Solutions) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis).
+	* [http://internetrebecca.tumblr.com/](Internetrebecca (tumblr addition)) This is when I was getting antsy to post things, but I don't even like my twitter handle, so taking on the full persona felt weird. 
+	* [http://todayrebeccalearned.tumblr.com/](Today Rebecca Learned) I can't remember the password to this or how to log in. Not a joke or metaphor.  
+	* [http://repeatendlesslytoyourself.tumblr.com/](Repeat Endlessly to Yourself) This is newer and was meant to be a quotes list like [http://jackcheng.com/](Jack Cheng)'s quotes page that I loved so much back in 2004. 
+	* [http://thetimballchallenge.tumblr.com/](The Timball Challenge) A cooking blog with one post to date.
 * Now-? **[http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)**
 
 Needless to say, I am glad to have a spot once again.
