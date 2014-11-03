@@ -6,10 +6,11 @@ categories: articles
 date: 2014-11-02
 ---
 <figure>
-	<img src=/images/blur.jpg>
+	<img src="/images/blur.jpg">
 	<figcaption>Laptop on a bus, 2013-ish</figcaption>
 </figure>
-I [www.twitter.com/internetrebecca](tweet), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admitedly some assistance from [www.konklone.com](Konklone, Inc.), I have set up the [http://jekyll.gtat.me/about/](Balzac theme for Jekyll) as clean space for no excuses. For historical purposes, I have rounded up some of my past blogging stints. 
+
+I [http://www.twitter.com/internetrebecca](tweet), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admitedly some assistance from [www.konklone.com](Konklone, Inc.), I have set up the [http://jekyll.gtat.me/about/](Balzac theme for Jekyll) as clean space for no excuses. For historical purposes, I have rounded up some of my past blogging stints. 
 
 To date:
 
@@ -25,7 +26,7 @@ To date:
 	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/) I can't remember any pws here. 
 	* [http://repeatendlesslytoyourself.tumblr.com/](http://repeatendlesslytoyourself.tumblr.com/)
 	* [http://thetimballchallenge.tumblr.com/](http://thetimballchallenge.tumblr.com/)
-	* a few more than remain a mystery at this time. 
+	* a few more that remain a mystery at this time. 
 * Now-? **[http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)**
 
 Needless to say, I am glad to have a spot once again. 
