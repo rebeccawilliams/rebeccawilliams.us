@@ -18,7 +18,7 @@ To date:
 
 ~2008-2010 Blogspot. Things I liked. Retired, copy lost.  
 
-2013-2014 [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/)  
+2013-2014 [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/).  
 
 2010-2014, a personal blogging hiadus with many one post tumblr attempts, see:  
 
@@ -27,7 +27,7 @@ To date:
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
 *  [Housing Crisis Solutions](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis) and I wanted to solve the Housing Crisis, still do.   
 * [internetrebecca (tumblr addition)](http://internetrebecca.tumblr.com/) This is when I was getting antsy to post things, but I don't even like my twitter handle, so taking on the full persona felt weird.  
-* [Today Rebecca Learned](http://todayrebeccalearned.tumblr.com/) I can't remember the password to this or how to log in. Not a joke or metaphor.  
+* [Today Rebecca Learned](http://todayrebeccalearned.tumblr.com/) I can't remember the password to this or my log in info. Not a joke or a metaphor.  
 * [Repeat Endlessly to Yourself](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like [Jack Cheng](http://jackcheng.com/)'s [Notes to Self](https://web.archive.org/web/20090317095650/http://jackcheng.tumblr.com/) that I loved so much back in 2009.  
 * [The Timball Challenge](http://thetimballchallenge.tumblr.com/) A cooking blog with one post to date.  
 
