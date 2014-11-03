@@ -7,9 +7,9 @@ date: 2014-11-02
 ---
 <figure>
 	<img src="/images/blur.jpg">
-	<figcaption>Laptop on a bus, 2013-ish</figcaption>
+	<figcaption>Laptop on a bus, 2013</figcaption>
 </figure>
-I [tweet](www.twitter.com/internetrebecca), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admitedly some assistance from [Konklone, Inc.](www.konklone.com), I have set up the [Balzac theme for Jekyll](http://jekyll.gtat.me/about/) as clean space for no excuses. For historical purposes, I have rounded up my short history of web logging. 
+I [tweet](www.twitter.com/internetrebecca), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admitedly some assistance from [Konklone, Inc.](www.konklone.com), I have set up the [Balzac theme for Jekyll](http://jekyll.gtat.me/about/) as clean space for no excuses. For historical purposes, I have rounded up my short history of weblogging. 
 
 To date:
 
