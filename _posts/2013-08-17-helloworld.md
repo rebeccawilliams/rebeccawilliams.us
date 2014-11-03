@@ -4,8 +4,8 @@ title: Hello World
 description: "The blogging history of Rebecca Williams"
 categories: articles
 date: 2014-11-02
-image: 
-        feature: /blog/images/blur.jpg
+image:  
+	feature: "https://github.com/rebeccawilliams/blog/blob/gh-pages/images/blur.jpg"
 ---
 To date:
 
