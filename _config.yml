@@ -9,13 +9,6 @@ url: /blog
 # Owner/author information
 owner:
   name:           Rebecca Williams
-  avatar:         rebeccawilliams.png
-  bio:            Rebecca Williams
-  email:          rebecca@rebeccawilliams.us
-  twitter:        internetrebecca
-  github:         rebeccawilliams
-  instagram:      instarebeccawilliams
-  location:       "Washington, DC"
   # Plug in your disqus shortname!
 
 tools:
