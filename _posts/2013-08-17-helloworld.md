@@ -15,9 +15,13 @@ I [tweet](www.twitter.com/internetrebecca), I put everything I've got into email
 To date:
 
 ~2002-2004 Livejournal & Deadjournal. Diaries, stories. Retired, copies lost.  
+
 ~2008-2010 Blogspot. Things I liked. Retired, copy lost.  
+
 2013-2014 [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/)  
+
 2010-2014, a personal blogging hiadus with many one post tumblr attempts, see:  
+
 * [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) First tumblr, updated the most, I still think it is good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
