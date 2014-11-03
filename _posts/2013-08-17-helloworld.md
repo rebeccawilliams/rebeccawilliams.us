@@ -21,7 +21,7 @@ To date:
 	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/)
 	* [http://repeatendlesslytoyourself.tumblr.com/](http://repeatendlesslytoyourself.tumblr.com/)
 	* [http://thetimballchallenge.tumblr.com/](http://thetimballchallenge.tumblr.com/)
-* Now-? [http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog) says, "Hello World!"
+* Now-? [http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)
 
 Needless to say, I am glad to have a spot once again. 
 
