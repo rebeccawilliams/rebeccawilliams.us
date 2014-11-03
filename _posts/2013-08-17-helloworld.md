@@ -23,7 +23,7 @@ To date:
 	* [http://songstoputyouinamood.tumblr.com/](http://songstopickyouup.tumblr.com/)
 	* [http://housingcrisissolutions.tumblr.com/](http://housingcrisissolutions.tumblr.com/)
 	* [http://internetrebecca.tumblr.com/](http://internetrebecca.tumblr.com/)
-	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/) I can't remember any pws here. 
+	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/)
 	* [http://repeatendlesslytoyourself.tumblr.com/](http://repeatendlesslytoyourself.tumblr.com/)
 	* [http://thetimballchallenge.tumblr.com/](http://thetimballchallenge.tumblr.com/)
 	* a few more that remain a mystery at this time. 
