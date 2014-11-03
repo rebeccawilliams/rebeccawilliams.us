@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Hello World
-description: "The blogging history of Rebecca Williams"
+description: "The blogging history of Rebecca Williams."
 categories: articles
 date: 2014-11-02
 image:  
@@ -21,7 +21,7 @@ To date:
 	* [http://todayrebeccalearned.tumblr.com/](http://todayrebeccalearned.tumblr.com/)
 	* [http://repeatendlesslytoyourself.tumblr.com/](http://repeatendlesslytoyourself.tumblr.com/)
 	* [http://thetimballchallenge.tumblr.com/](http://thetimballchallenge.tumblr.com/)
-* Now-? [http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)
+* Now-? **[http://rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)**
 
 Needless to say, I am glad to have a spot once again. 
 
