@@ -16,11 +16,11 @@ To date:
 
 **~2002-2004** Livejournal & Deadjournal. Diaries, stories. Retired, copies lost.  
 
-*~2008-2010* Blogspot. Things I liked. Retired, copy lost.  
+**~2008-2010** Blogspot. Things I liked. Retired, copy lost.  
 
-*2013-2014* [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/).  
+**2013-2014** [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/).  
 
-*2009-2014*, a personal blogging hiadus with many one post tumblr attempts, see:  
+**2009-2014**, a personal blogging hiadus with many one post tumblr attempts, see:  
 
 * [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it is good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
@@ -31,7 +31,7 @@ To date:
 * [Repeat Endlessly to Yourself:](http://repeatendlesslytoyourself.tumblr.com/) This is newer and was meant to be a quotes list like [Jack Cheng](http://jackcheng.com/)'s [Notes to Self](https://web.archive.org/web/20090317095650/http://jackcheng.tumblr.com/) that I loved so much back in 2009.  
 * [The Timball Challenge](http://thetimballchallenge.tumblr.com/) A cooking blog with one post to date.  
 
-*2014-?* **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** 
+**2014-?** **[rebeccawilliams.us/blog](http://rebeccawilliams.us/blog)** 
 
 I am excited to have one spot to put it all once again. 
 
