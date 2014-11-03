@@ -19,8 +19,8 @@ To date:
 
 2013-2014 [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/)  
 
-2010-2014, a personal blogging hiadus with many one post tumblr attempts, see: 
-* [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) First tumblr, updated the most, I still think it is good.  
+2010-2014, a personal blogging hiadus with many one post tumblr attempts, see:  
+	* [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) First tumblr, updated the most, I still think it is good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
 * [Housing Crisis Solutions](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis) and I wanted to solve the Housing Crisis, still do.  
