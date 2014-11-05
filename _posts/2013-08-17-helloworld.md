@@ -10,7 +10,7 @@ date: 2014-11-02
 	<figcaption>Laptop on a bus, 2013</figcaption>
 </figure>
 
-I [tweet](https://www.twitter.com/internetrebecca), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admitedly some assistance from [Konklone, Inc.](https://konklone.com/), I have set up the [Balzac theme for Jekyll](http://jekyll.gtat.me/about/) as clean space for no excuses. For historical purposes, I have rounded up my short history of weblogging. 
+I [tweet](https://twitter.com/internetrebecca), I put everything I've got into emails, I talk a lot, but blogging is something I used to enjoy and I wish I did more of. With admittedly some assistance from [Konklone, Inc.](https://konklone.com/), I have set up the [Balzac theme for Jekyll](http://jekyll.gtat.me/about/) as clean space for no excuses. For historical purposes, I have rounded up my short history of weblogging. 
 
 To date:
 
@@ -18,9 +18,9 @@ To date:
 
 **~2008-2010** Blogspot. Things I liked. Retired, copy lost.  
 
-**2013-2014** [Open Data Policy blogging with the Sunlight Foundation](http://sunlightfoundation.com/blog/author/rwilliams/).  
+**2013-2014** [Open Data Policy blogging with the Sunlight Foundation](https://sunlightfoundation.com/blog/author/rwilliams/).  
 
-**2009-2014** A personal blogging hiadus with many one post tumblr attempts, see:  
+**2009-2014** A personal blogging hiatus with many one post tumblr attempts, see:  
 
 * [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it's good.  
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
