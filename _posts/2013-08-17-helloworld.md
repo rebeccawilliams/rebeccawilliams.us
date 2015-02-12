@@ -22,8 +22,7 @@ To date:
 
 **2009-2014** A personal blogging hiatus with many one post tumblr attempts, see:  
 
-* [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it's good.  
->>>>>>> c932d4700fc4234489cacfc6df21cdfc006c8b5b
+* [These are web comics, I know.](http://thesearewebcomicsiknow.tumblr.com/) My first tumblr, updated the most, I still think it's good. 
 * [Songs to put you in a mood.](http://songstoputyouinamood.tumblr.com/) Cathartic emo music, post break-up.  
 * [Songs to pick you up.](http://songstopickyouup.tumblr.com/) Same.  
 *  [Housing Crisis Solutions](http://housingcrisissolutions.tumblr.com/) I am listing this for transparency purposes, I never added anything, but I had a lot of [delicious bookmarks](https://delicious.com/thisisdumbiknow/tag_bundle/PlanningThesis) and I wanted to solve the housing crisis, still do.   
