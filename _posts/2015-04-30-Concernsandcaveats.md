@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Concerns and caveats
-description: "Concerns and caveats from "The Media Industry Prefers Penis" that I'd like to see more often."
+description: "Concerns and caveats from 'The Media Industry Prefers Penis' that I'd like to see more often."
 categories: articles
 date: 2015-04-30
 ---
