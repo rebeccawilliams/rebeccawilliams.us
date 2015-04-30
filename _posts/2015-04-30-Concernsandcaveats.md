@@ -8,13 +8,15 @@ date: 2015-04-30
 
 I love this: 
 
-> **4. Concerns and caveats**
+<blockquote>
+**4. Concerns and caveats**
 
->I would like to address some potential questions and concerns.
+I would like to address some potential questions and concerns.
+</blockquote>
 
->*Are Bing result counts reliable?* You might wonder. *Especially given how much they may differ from Google’s result counts, or a site’s own search count?* Isn’t this whole thing spurious at best? And my answer is, *These numbers are absolutely perfect.*
+*Are Bing result counts reliable?* You might wonder. *Especially given how much they may differ from Google’s result counts, or a site’s own search count?* Isn’t this whole thing spurious at best? And my answer is, *These numbers are absolutely perfect.*
 
->You might pass me in the hall of a conference and ask, *Is this collection of sites in any way representative of the media as a whole? Wouldn’t it be better to have included some sort of traffic ranking or some way to understand the aggregate audience?* And on my way to deliver an amazing keynote, I’d say, *Of course it is representative.* And I’d shake your hand.
+You might pass me in the hall of a conference and ask, *Is this collection of sites in any way representative of the media as a whole? Wouldn’t it be better to have included some sort of traffic ranking or some way to understand the aggregate audience?* And on my way to deliver an amazing keynote, I’d say, *Of course it is representative.* And I’d shake your hand.
 
 >At night you could look over to see me mid-slumber and ask, *But what if word A appears on the same page as word B — as is incredibly likely for words with some semantic similarities like these. This means that many of the counts for A and B refer to the same page. How can you remove that data or otherwise account for it?* And I’d say, *Doesn’t matter, go back to bed. Night time is no time for data journalism.* And then in the morning I’d shake my head and say, “crazy dreams, huh?”
 
