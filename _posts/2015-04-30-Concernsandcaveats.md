@@ -6,7 +6,7 @@ categories: articles
 date: 2015-04-30
 ---
 
-#### Paul Ford's ["The Media Industry Prefers Penis"](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) is cutting edge educational quasi-mock data journalism that is worth reading in full, but the "Concerns and caveats" section is so good that I'd like to pin it here on my web fridge:
+#### Paul Ford's ["The Media Industry Prefers Penis"](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) is quasi-mock data journalism that is worth reading in full, but the "Concerns and caveats" section is so good that I'd like to hang it here on my web fridge:
 
 **4. Concerns and caveats**
 
