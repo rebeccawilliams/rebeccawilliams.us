@@ -6,13 +6,13 @@ categories: articles
 date: 2015-04-30
 ---
 
-**From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0), I love this:** 
+**From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) / I love this:** 
 
 **4. Concerns and caveats**
 
 I would like to address some potential questions and concerns.
 
-***Are Bing result counts reliable?*** You might wonder. *Especially given how much they may differ from Google’s result counts, or a site’s own search count?* Isn’t this whole thing spurious at best? And my answer is, *These numbers are absolutely perfect.*
+****Are Bing result counts reliable?**** You might wonder. *Especially given how much they may differ from Google’s result counts, or a site’s own search count?* Isn’t this whole thing spurious at best? And my answer is, *These numbers are absolutely perfect.*
 
 You might pass me in the hall of a conference and ask, *Is this collection of sites in any way representative of the media as a whole? Wouldn’t it be better to have included some sort of traffic ranking or some way to understand the aggregate audience?* And on my way to deliver an amazing keynote, I’d say, *Of course it is representative.* And I’d shake your hand.
 
