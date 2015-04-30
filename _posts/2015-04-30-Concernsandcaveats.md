@@ -8,6 +8,7 @@ date: 2015-04-30
 
 #### From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0), I love this: 
 
+
 **4. Concerns and caveats**
 
 I would like to address some potential questions and concerns.
