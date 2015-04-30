@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Concerns and caveats
-description: "Concerns and caveats from 'The Media Industry Prefers Penis' that I'd like to see more often."
+description: "Concerns and caveats that I'd like to see more often."
 categories: articles
 date: 2015-04-30
 ---
 
-#### I love this: 
+### From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) I love this: 
 
 **4. Concerns and caveats**
 
@@ -23,5 +23,3 @@ Some time in the future, hours before dawn, you may be walking near a river and 
 We might meet again, thirty years after we last parted, and in the flood of memories you might ask, *“Assuming the data is in any way meaningful, aren’t some of the result counts too low to be meaningful?”* And I would put my hands on your shoulders and say, *“Every sample size is meaningful.”*
 
 In the far future, you might attend my wake. *He did important work*, you will think. *His comparison of sexualized terms on websites changed America. But given that the results from Bing are not always consistent, even from search to search — given that, very briefly, during his analysis, the Bing results for the New Yorker seemed to drastically favor cunnilingus — and yet a further search revealed that, no, the* New Yorker *was most safely in the camp of fellatio — given all of that, could this entire project have been an amusing folly instead of true science?* I will hear your thoughts because my cyber-thought-radio is still plugged in, by an oversight of the mortician, and the nanobots that make up most of my blood will be aroused by your suspicions, animating my body and stimulating my jaw to utter the final phrase of my existence: *“All. Data. Perfect.”*
-
-Read the whole thing: ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0)
