@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Concerns and caveats
-description: "Concerns and caveats that I'd like see more often."
+description: "Concerns and caveats from ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) that I'd like to see more often."
 categories: articles
 date: 2015-04-30
 ---
 
-**From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) / I love this:** 
+#### I love this: 
 
 **4. Concerns and caveats**
 
