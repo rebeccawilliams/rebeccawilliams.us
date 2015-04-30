@@ -6,7 +6,7 @@ categories: articles
 date: 2015-04-30
 ---
 
-#### From ["The Media Industry Prefers Penis" by Paul Ford](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0), I love this: 
+#### Paul Ford's ["The Media Industry Prefers Penis"](https://medium.com/message/the-words-the-media-industry-prefers-5d33e5b021e0) is cutting edge quasi-mock-data-journalism that is worth reading in full, but the *Concerns and caveats* section is so good that I needed to keep a clipping here for further reference: 
 
 
 **4. Concerns and caveats**
