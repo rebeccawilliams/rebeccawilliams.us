@@ -1,10 +1,9 @@
 title:            Rebecca Williams
 tagline:          A website. 
 description:      A home for Rebecca Williams. 
-canonical: http://jekyll.gtat.me
 
-baseurl: /blog
-url: /blog
+baseurl: http://rebeccawilliams.us/blog
+url: http://rebeccawilliams.us/blog
 
 # Owner/author information
 owner:
