@@ -577,7 +577,7 @@ footer {
         display: block;
         width: 100%;
         position: absolute;
-        bottom: 8px;
+        bottom: 10px;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .9);
@@ -630,20 +630,10 @@ footer {
         top: 109px;
         @include column(2,12);
         right: 5vw;
+        margin-bottom: $lh/2;
+        border-bottom: 2px solid $link;
         font-style: italic;
-        a {
-            &:hover {
-                color: $white;
-            }
-        }
-        ul {
-            li {
-                margin-bottom: $lh/2;
-                &:last-child {
-                    margin-bottom: 0;
-                }
-            }
-        }
+        font-size: $fs4;
     }
 }
 
