@@ -626,10 +626,10 @@ footer {
     }
     
     .social {
-        position: absolute;
-        top: 109px;
+        max-width: 200px;
+        min-height: 250px;
         @include column(2,12);
-        right: 5vw;
+        padding right: 5vw;
         margin-bottom: $lh/2;
         border-bottom: 2px solid $link;
         font-style: italic;
