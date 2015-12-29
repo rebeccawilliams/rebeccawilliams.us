@@ -2,14 +2,12 @@
   <footer>
     <aside class="wrap">
       <ol class="prev-posts">
-        <p class="list-title">Recent Posts</p>
-        {% for post in site.posts | limit:3 %} <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </a></span>
-              <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
-            </li>
-        {% endfor %}
-      </ol>
+          <p class="list-title">Follow Rebecca on:</p>
+        	<li><a href="https://twitter.com/internetrebecca"><i class="fa fa-twitter fa-lg"></i>   &nbsp;
+		          <a href="https://instagram.com/instarebeccawilliams"><i class="fa fa-instagram fa-lg"></i>   &nbsp;
+            	<a href="https://www.flickr.com/photos/thisisflickriknow/"><i class="fa fa-flickr fa-lg"></i>   &nbsp;
+            	<a href="https://www.linkedin.com/in/rebeccaannwilliams"><i class="fa fa-linkedin fa-lg"></i>   &nbsp;
+		          <a href="http://github.com/rebeccawilliams"><i class="fa fa-github fa-lg"></i>
       <div class="social">
       <ul>
             <li><a href="mailto:rebecca@rebeccawilliams.us"><span class="foot-link">Email</span></a></li>
