@@ -393,7 +393,7 @@ header.site-header nav {
             }
             
             a:before {
-                content:'“';
+                content:'\201c';
                 color: $grey-light;
                 position: absolute;
                 margin-left: -70px;
@@ -577,7 +577,7 @@ footer {
         display: block;
         width: 100%;
         position: absolute;
-        bottom: 10px;
+        bottom: 8px;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .9);
@@ -626,14 +626,24 @@ footer {
     }
     
     .social {
-        max-width: 200px;
-        min-height: 250px;
+        position: absolute;
+        top: 109px;
         @include column(2,12);
-        padding right: 5vw;
-        margin-bottom: $lh/2;
-        border-bottom: 2px solid $link;
+        right: 5vw;
         font-style: italic;
-        font-size: $fs4;
+        a {
+            &:hover {
+                color: $white;
+            }
+        }
+        ul {
+            li {
+                margin-bottom: $lh/2;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
     }
 }
 
@@ -840,7 +850,6 @@ small {
 }
 
 }
-
 
 
 
