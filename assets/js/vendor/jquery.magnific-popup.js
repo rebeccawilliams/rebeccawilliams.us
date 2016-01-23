@@ -1,5 +1,5 @@
 /*! Magnific Popup - v0.8.9 - 2013-06-04
-* http://dimsemenov.com/plugins/magnific-popup/
+* https://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2013 Dmitry Semenov; */
 ;(function($) {
 
@@ -806,7 +806,7 @@ $.magnificPopup = {
 	defaults: {   
 
 		// Info about options is in docs:
-		// http://dimsemenov.com/plugins/magnific-popup/documentation.html#options
+		// https://dimsemenov.com/plugins/magnific-popup/documentation.html#options
 		
 		disableOn: 0,	
 

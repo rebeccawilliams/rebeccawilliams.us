@@ -2,8 +2,8 @@ title:            Rebecca Williams
 tagline:          A website. 
 description:      A home for Rebecca Williams. 
 
-baseurl: http://rebeccawilliams.us/blog
-url: http://rebeccawilliams.us/blog
+baseurl: https://rebeccawilliams.us/blog
+url: https://rebeccawilliams.us/blog
 
 # Owner/author information
 owner:
@@ -18,7 +18,7 @@ tools:
 # For external links add external: true
 links:
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
 highlighter: pygments
