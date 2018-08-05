@@ -576,7 +576,7 @@ footer {
         text-align: center;
         display: block;
         width: 100%;
-        bottom: 12px;
+        bottom: auto;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .5);
