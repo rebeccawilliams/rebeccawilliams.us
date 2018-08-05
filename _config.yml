@@ -4,10 +4,12 @@ description:      A home for Rebecca Williams.
 
 baseurl: https://rebeccawilliams.us/blog
 url: https://rebeccawilliams.us/blog
+canonical: https://rebeccawilliams.us/blog
 
 # Owner/author information
 owner:
   name:           Rebecca Williams
+  twitter:        internetrebecca
   # Plug in your disqus shortname!
 
 tools:
@@ -17,6 +19,7 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
