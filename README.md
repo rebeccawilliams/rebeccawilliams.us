@@ -8,4 +8,4 @@ This work by <a href="https://github.com/rebeccawilliams">Rebecca Williams</a> i
 
 The views, thoughts, and opinions expressed  on this site belong solely to Rebecca Williams, and do not necessarily represent her employers, organizations, or affiliates.
 
-This site is powered by <a href="https://jekyllrb.com">Jekyll</a> using the <a href="https://jekyll.gtat.me/about">Balzac</a> theme. See the <a href="https://github.com/rebeccawilliams/blog/blob/gh-pages/LICENSE">software License</a> for more information. 
+This site is powered by <a href="https://jekyllrb.com">Jekyll</a> using the <a href="https://jekyll.gtat.me/about">Balzac</a> theme. See the <a href="https://github.com/rebeccawilliams/blog/blob/gh-pages/LICENSE">software license</a> for more information. 
