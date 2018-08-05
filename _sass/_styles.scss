@@ -577,10 +577,10 @@ footer {
         display: block;
         width: 100%;
         position: absolute;
-        bottom: 8px;
+        bottom: 12px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
+        color: transparentize($white, .5);
         a {
             color: transparentize($white, .7);
         }
