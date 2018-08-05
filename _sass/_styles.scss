@@ -572,11 +572,12 @@ footer {
     }
     
     small {
-        font-size: ($fs7);
+        font-size: ($fs6);
         text-align: center;
         display: block;
         width: 100%;
         bottom: 20px;
+        padding-bottom: $lh*2;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .5);
