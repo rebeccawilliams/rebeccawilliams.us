@@ -2,7 +2,6 @@
 layout: post
 title: Hello World
 description: "The blogging history of Rebecca Williams, 2002-2014."
-categories: articles
 date: 2014-11-02
 ---
 <figure>
