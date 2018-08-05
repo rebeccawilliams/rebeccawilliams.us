@@ -552,7 +552,7 @@ header.site-header nav {
 
 /* Footer Stuff */
 .push {
-    height: $footerHeight/5 !important;
+    height: $footerHeight/4 !important;
 }
 
 footer {
@@ -576,7 +576,7 @@ footer {
         text-align: center;
         display: block;
         width: 100%;
-        padding-bottom: 8px;
+        margin: 0 auto;
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .5);
