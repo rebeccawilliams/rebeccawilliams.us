@@ -1,12 +1,15 @@
 ---
 layout: home
 ---
+
+# [Data.gov](Data.gov)
+		  
         <div id='bump'>
         <section class="article archive">
           <article class="archive-wrap">
               <ol class="post-list">
                 <lh><h2><span class="bb">Speaking</a></span></h2></lh>
-		  [Data.gov](Data.gov)
+
 		              <p><a href=https://ire.org/events-and-training/event/3189/>NICAR 2018</a> | March 2018</p>
 		              <p><a href=http://www.equaljusticeworks.org/post-grad/equal-justice-works-fellowships/leadership-development-training>Equal Justice Works: Leadership Development Training</a> | November 2017</p>
 		              <p><a href=https://srccon.org/sessions/#proposal-745804>SRCCON: Beyond FOIA: Brainstorming Other Ways To See What Your Government Is Up To</a> | August 2017</p>
