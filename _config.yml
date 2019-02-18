@@ -2,9 +2,9 @@ title:            Rebecca Williams
 tagline:          A website. 
 description:      A home for Rebecca Williams. 
 
-baseurl: https://rebeccawilliams.us/blog
-url: https://rebeccawilliams.us/blog
-canonical: https://rebeccawilliams.us/blog
+baseurl: https://rebeccawilliams.github.io/blog
+url: https://rebeccawilliams.github.io/blog
+canonical: https://rebeccawilliams.github.io/blog
 
 # Owner/author information
 owner:
