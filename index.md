@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 {% include head-dark.html %} 
 
     <div id='bump'>
