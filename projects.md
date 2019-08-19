@@ -1,6 +1,6 @@
 ---
 layout: projects
 permalink: /projects
-title: "Projects"
+title: "Side Projects"
 ---
 
