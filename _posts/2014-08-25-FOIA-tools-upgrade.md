@@ -4,6 +4,7 @@ title: Freedom of information tools, it’s time for an open data inspired upgra
 description: "Orignally posted on SunlightFoundation.com"
 date: 2014-08-25
 ---
+<figure class="full-width"><img src="http://sunlightf.wpengine.com/wp-content/uploads/2014/08/Liberty-800.jpg" alt="" /><figcaption>Ji Lee, Eugène Delacroix</figcaption></figure>
 <p>The relationship between the <a href="http://sunlightfoundation.com/policy/opendatamap/">U.S. open data initiatives that we see today</a> and the freedom of information advocacy that has been going on <a href="http://www.rcfp.org/open-government-guide">since the 1960s</a> has <a href="http://sunlightfoundation.com/blog/2014/07/01/when-open-data-isnt-enough/">not always been clear</a> for advocates in either camp. However, not only can <a href="http://sunlightfoundation.com/blog/2014/07/01/when-open-data-isnt-enough/">open data and FOI disclosure efforts work symbiotically</a>, they can also learn from each others’ shortcomings, and in many instances meet each other in the middle to create more robust, comprehensive information disclosure. In addition to <a href="http://sunlightfoundation.com/blog/tag/records-management/">upgraded records management</a> and building <a href="http://sunlightfoundation.com/opendataguidelines/#build-on-precedent">open data policies on their existing freedom of information laws</a>, jurisdictions of all sizes should:</p>
 <ol>
 <li>Collect and open FOI request data.</li>
