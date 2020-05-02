@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: writing
 permalink: /writing
 title: "Writing"
 ---
