@@ -14,7 +14,7 @@ p {
 }
 
 .intro {      
-    font-size: $fs3; 
+    font-size: $fs2; 
     line-height: 1.4em;
 }
 
@@ -29,18 +29,18 @@ p {
 /* Headings
    ========================================================================== */
 
-h1,.h1 {      font-size: $fs1; }
-h2,.h2 {      font-size: $fs2; } 
-h3,.h3 {      font-size: $fs3; } 
-h4,.h4 {      font-size: $fs4; } 
-h5,.h5 {      font-size: $fs5; } 
-h6,.h6 {      font-size: $fs6; } 
+h1,.h1 {      font-size: $fs2; }
+h2,.h2 {      font-size: $fs3; } 
+h3,.h3 {      font-size: $fs4; } 
+h4,.h4 {      font-size: $fs5; } 
+h5,.h5 {      font-size: $fs6; } 
+h6,.h6 {      font-size: $fs7; } 
 
-.meta {       font-size: $fs6; }
+.meta {       font-size: $fs7; }
 
-blockquote, blockquote p {  font-size: $fs2; }
+blockquote, blockquote p {  font-size: $fs3; }
 
-.archive input { font-size: $fs2}
+.archive input { font-size: $fs3}
 
 
 
@@ -52,17 +52,17 @@ blockquote, blockquote p {  font-size: $fs2; }
 @media only screen and (max-width: $breakpoint-1-max-width) {
 
 p {           
-    font-size: $fs5;
+    font-size: $fs6;
     line-height: $lhsmall;
 }
 
 .intro {      
-    font-size: $fs4; 
+    font-size: $fs5; 
     line-height: 1.4em;
 }
 
 .post ul li {
-    font-size: $fs5;
+    font-size: $fs6;
     line-height: $lhsmall;
     margin-bottom: $lhsmall/2;
 }
@@ -76,9 +76,9 @@ h6,.h6 {      font-size: $fs6; }
 
 .meta {       font-size: $fs6; }
 
-blockquote, blockquote p {  font-size: $fs4; }
+blockquote, blockquote p {  font-size: $fs5; }
 
-.archive input { font-size: $fs3}
+.archive input { font-size: $fs4}
 
 }
 
