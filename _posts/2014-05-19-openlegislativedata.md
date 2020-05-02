@@ -14,10 +14,8 @@ date: 2014-05-19
 <ul>
 <li>See our <a href="https://sunlightfoundation.com/opendataguidelines/">Open Data Policy Guidelines</a> and <a href="http://opencivicdata.org/">Open Civic Data Schema</a> to support ways to open up law and lawmaking information through policy and compatible data structures</li>
 <li>Chat #openlaw with us at <a href="http://transparencycamp.org/">Transparency Camp</a></li>
-<li>Check out the resources mentioned above, rounded up in a chart below</li>
-<li>Reach out to us at local@sunlightfoundation.com with any questions</li>
+<li>Check out the resources mentioned above, rounded up in a chart below,</li>
 </ul>
-<p>&#8212;&#8211;</p>
 <h3>When will open legislative data come to your town? Check out these resources.</h3>
 <p><script src="https://gist.github.com/rebeccawilliams/62559a5a57ba2d7e3527.js"></script></p>
-<p><strong>Did we miss any? Shoot us an email at local@sunlightfoundation.com or leave a comment below.</strong></p>
+
