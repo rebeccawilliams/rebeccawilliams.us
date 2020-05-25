@@ -1,6 +1,6 @@
 ---
-layout: projects
-permalink: /projects
-title: "Side Projects"
+layout: fun
+permalink: /fun
+title: "For Fun"
 ---
 
