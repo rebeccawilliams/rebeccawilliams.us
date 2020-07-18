@@ -18,6 +18,10 @@ tools:
 
 plugins:
   - jekyll-feed
+
+feed:
+ categories:
+    - writing
   
 # Links to include in top navigation
 # For external links add external: true
