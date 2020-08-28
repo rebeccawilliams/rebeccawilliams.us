@@ -22,7 +22,7 @@ GEM
       redcarpet (~> 2.2.2)
       safe_yaml (~> 0.7.0)
     jekyll-minibundle (1.1.0)
-    kramdown (1.0.2)
+    kramdown (2.3.0)
     liquid (2.5.1)
     maruku (0.6.1)
       syntax (>= 1.0.0)
