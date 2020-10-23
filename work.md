@@ -1,5 +1,5 @@
 ---
-layout: work
-permalink: /work
-title: "Work"
+layout: working
+permalink: /working
+title: "Working"
 ---
