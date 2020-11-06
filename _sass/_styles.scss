@@ -152,7 +152,7 @@ input {
 }
 
 .wrap {
-    max-width: 960px;
+    max-width: 680px;
     @include column(10);
     float: none;
     margin: 0 auto;
@@ -346,7 +346,7 @@ header.site-header nav {
 
 .archive-wrap {
     @include column(10);
-    max-width: 800px;
+    max-width: 680px;
     display: block;
     margin: 0 auto;
     float: none;
