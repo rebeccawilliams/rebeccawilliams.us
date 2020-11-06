@@ -44,8 +44,8 @@ kramdown:
 sass:
     style: :compressed
 
-gems:
-  - jekyll-srcset
+plugins:
+  - jekyll-responsive-image
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
