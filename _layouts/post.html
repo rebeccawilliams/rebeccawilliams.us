@@ -7,7 +7,6 @@
           <hgroup>
             <h3>{{page.title}}</h3>
             <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
-            <p>{% if page.related_image %} <img src="{{ page.related_image }}" alt="">{% endif %}</p>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
           </hgroup>
         </header>
