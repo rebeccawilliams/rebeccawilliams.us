@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Introducing: Whose Streets? Our Streets! Developing Interventions to Protect Civil Liberties in a 'Smart City'"
-description: "An introduction to my research for the Technology and Public Purpose Project." 
 date: 2020-10-21
 related image: /images/smallcybercity.gif
 ---
