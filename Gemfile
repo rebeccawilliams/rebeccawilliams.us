@@ -6,5 +6,6 @@ gem 'coderay'
 gem "rake", ">= 12.3.3"
 gem 'jekyll-feed'
 gem "kramdown", ">= 2.3.0"
+gem 'jekyll-srcset'
 
 
