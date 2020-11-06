@@ -41,9 +41,6 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-gems:
-  - jekyll-srcset
-
 sass:
     style: :compressed
 
