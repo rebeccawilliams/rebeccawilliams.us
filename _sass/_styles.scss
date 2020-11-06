@@ -360,6 +360,9 @@ header.site-header nav {
         @include push(2);
         display: block;
         float: none;
+        position: relative;
+        top: 45px;
+        z-index: 5;
         
         lh h2 {
             margin-bottom: $lh*1.5;
