@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing: Whose Streets? Our Streets! Developing Interventions to Protect Civil Liberties in a 'Smart City'"
 date: 2020-10-21
-featured image: /images/smallcybercity.gif 
+thumbnail: /images/smallcybercity.gif 
 ---
 
 <img src="https://www.belfercenter.org/sites/default/files/styles/large/public/2020-10/cybercity.gif">
