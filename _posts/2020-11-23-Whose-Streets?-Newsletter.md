@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whose Streets? Our Streets! (Tech Edition) Newsletter Launch
+title: Subscribe to the Whose Streets? Our Streets! (Tech Edition) Newsletter
 thumbnail: /images/whosestreets.png
 ---
 
