@@ -10,6 +10,6 @@ As part of Harvard Kennedy School’s Belfer Center for Science and Internatio
 
 To support this research, Rebecca and [Madeleine Smith](https://www.linkedin.com/public-profile/in/madeleinewsmith) are gathering recent news and media related to “smart city” (and other) surveillance technologies of public spaces into one fun-size bundle for your inbox. The goals of this newsletter are to take you along on our journey of examining how “smart city” technology contributes to and interplays with the surveillance of public spaces and to inspire you to consider: “Whose Streets?”
 
-Check out the first issue [here](https://whosestreets.substack.com/p/-surveilling-the-surveillance-of) and [subscribe now](https://whosestreets.substack.com/) so you don’t miss an issue and please help us [spread the word](https://whosestreets.substack.com/p/coming-soon?utm_source=substack&utm_medium=email&utm_content=share) to folks who would enjoy this content. 
+Check out the first issue [here](https://whosestreets.substack.com/p/-surveilling-the-surveillance-of) and [subscribe now](https://whosestreets.substack.com/) so you don’t miss an issue and please help us [spread the word](https://whosestreets.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share) to folks who would enjoy this content. 
 
 _[Orignally posted on Whosestreets.substack.com](https://whosestreets.substack.com/about)_
