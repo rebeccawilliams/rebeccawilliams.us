@@ -4,7 +4,10 @@ title: Subscribe to the Whose Streets? Our Streets! (Tech Edition) Newsletter
 thumbnail: /images/whosestreets.png
 ---
 
+<figure>
 <img src="/images/whosestreets.png">
+<figcaption>Unknown Artist, Somerville, MA</figcaption>
+</figure>
 
 As part of Harvard Kennedy School’s Belfer Center for Science and International Affairs’ [Technology and Public Purpose (TAPP) Project](https://www.belfercenter.org/project/technology-and-public-purpose), [Rebecca Williams](/) is spending the 2020-21 academic year [assessing risks to civil liberties posed by “smart city” technologies](https://www.belfercenter.org/person/rebecca-williams/publication) and developing recommended interventions for the public, governments, and vendors.
 
