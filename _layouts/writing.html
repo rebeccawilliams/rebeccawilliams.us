@@ -7,8 +7,10 @@
                  <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
                   {% for post in site.posts %}
                   <li>
-                    <div class="deets" itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
-                        <p class="">{% include module.html image_path="pros_cons_nuclear_energy.png" title="What's so Dangerous About Smart Cities Anyway?" description="Test." %}                      
+                   <div class="deets" itemscope itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
+                        <p class="">{% if post.thumbnail %} <img src="{{ post.thumbnail }}" float; left; style='width:50%;' margin: 0;
+    padding-right: 10px;>{% endif %} <h1 align= right;><a href="{{ site.url }}{{ post.url }}" float; right; margin: 0;>{{ post.title }}</a></h1>
+                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
                     </div>
                   </li>
                   {% endfor %}
