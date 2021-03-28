@@ -1,9 +1,9 @@
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="{{ include.image_path }}" alt="">
+    <img src="{{ post.thumbnail }}" alt="">
   </div>
   <div>
-    <h2>{{ include.title }}</h2>
-    {{ include.description | markdownify }}
+    <h1>{{ post.title }}</h1>
+   {{ post.date | date_to_xmlschema }}
   </div>
 </div>
