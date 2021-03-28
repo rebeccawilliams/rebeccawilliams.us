@@ -1,10 +1,10 @@
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    {% if post.thumbnail %} <img src="{{ post.thumbnail }}" float; left; style='width:50%;' margin: 0;
+    <img src="{{ post.thumbnail }}" float; left; style='width:50%;' margin: 0;
     padding-right: 10px;">
   </div>
   <div>
-    <h1 align= right;><a href="{{ site.url }}{{ post.url }}" float; right; margin: 0;>{{ post.title }}</a></h1>
+    <h1 align= right;><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
     <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
   </div>
 </div>
